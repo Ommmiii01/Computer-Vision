@@ -1,5 +1,5 @@
 # Computer-Vision Project
-# Advance Parking Space Through Computer Vision
+# Advance Parking Space Management Through Computer Vision
 
 This project aims to detect parking spaces in a video stream and differentiate between occupied and empty parking spots.
 
